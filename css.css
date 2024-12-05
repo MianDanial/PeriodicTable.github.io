@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;   
+}
+.table-container {
+    display: flex;
+    justify-content: center; /* Center the table horizontally */
+    height: auto;
+    width: auto;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+.table-container1{
+    margin-top: 50px;
+    width: 1000px;
+}
+.table-container2{
+    width: 1010px;
+}
+
+th, td {
+    border: solid 4px;
+    padding: 0px;
+    text-align: center;
+}
+
+/* .lanthanumData{
+    border: none;
+     font-weight: bold;
+}
+    
+
+.actiniumData{  
+    border: none;
+    text-align: center;
+    font-weight: bold;
+}
+.actinium{
+    width: 0px;
+}
+
+td.lanthanum ,td.cerium, td.praseodymium, td.neodymium, td.promethium, td.samarium, td.europium, td.gadolinium, td.terbium, td.dysprosium, td.holmium, td.erbium, td.thulium, td.ytterbium, td.lutetium {   
+    border: solid 4px;
+}
+
+ td.actinium,td.thorium, td.protactinium, td.uranium, td.neptunium, td.plutonium, td.americium, td.curium, td.berkelium, td.californium, td.einsteinium, td.fermium, td.mendelevium, td.nobelium, td.lawrencium {  
+    border: solid 4px;
+} */
